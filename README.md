@@ -48,13 +48,4 @@ Normalized 6-table PostgreSQL schema with foreign keys and indexed lookups. Razo
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashi1204&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashi1204&layout=compact&hide_border=true" height="165" />
-</p>
-
----
-
 <p align="center"><i>150+ DSA problems solved on LeetCode & GeeksforGeeks · Open to Full Stack / Backend / Frontend SDE roles</i></p>
